@@ -1,2 +1,3 @@
 # stylometry_translations
-Stylometric comparison between translated and non-translated literature
+
+A repo for modifying my research prototype to use spark.
